@@ -2,7 +2,7 @@
 
 Submitted by 108696  
 
-## „Introduction to Pandas DataFrames – Replicating an article in Markdown
+## „Introduction to Pandas DataFrames – Replicating an article in Markdown"
 
 - The Notebook used is `Pandas.ipynb`  
     It was created using jupyter and it is the basis for the task
